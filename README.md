@@ -114,7 +114,7 @@ second command
 <br>
 
 ```bash
-cd ZorkOS-Termux && chmod +x *;./install
+cd termux && chmod +x *;./install
 ```
 
 
